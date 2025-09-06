@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CagCVwpzcwY=",
+  "success": true,
+  "projectFilePath": "/home/jor/Documents/BYU/CSE-325/DotNetDebugging/DotNetDebugging.csproj",
+  "expectedPackageFiles": [
+    "/home/jor/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

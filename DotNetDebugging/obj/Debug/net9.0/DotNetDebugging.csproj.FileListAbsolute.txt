@@ -1,0 +1,14 @@
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/bin/Debug/net9.0/DotNetDebugging
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/bin/Debug/net9.0/DotNetDebugging.deps.json
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/bin/Debug/net9.0/DotNetDebugging.runtimeconfig.json
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/bin/Debug/net9.0/DotNetDebugging.dll
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/bin/Debug/net9.0/DotNetDebugging.pdb
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.AssemblyInfoInputs.cache
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.AssemblyInfo.cs
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.dll
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/obj/Debug/net9.0/refint/DotNetDebugging.dll
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.pdb
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/obj/Debug/net9.0/DotNetDebugging.genruntimeconfig.cache
+/home/jor/Documents/BYU/CSE-325/DotNetDebugging/obj/Debug/net9.0/ref/DotNetDebugging.dll
