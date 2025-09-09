@@ -1,0 +1,59 @@
+GET http://localhost:5172/pizza/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-09-06T180418.200.json
+
+###
+
+POST http://localhost:5172/pizza/
+Content-Type: application/json
+Content-Length: 79
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "name": "Non Classic Italian with Mushrooms",
+    "isGlutenFree": false
+}
+
+<> 2025-09-06T180213.201.json
+
+###
+
+GET http://localhost:5172/pizza/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-09-06T011440.200.json
+
+###
+
+GET http://localhost:5172/pizza/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+###
+
+GET http://localhost:5172/weatherforecast/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-09-06T003634.200.json
+
+###
+
+GET http://localhost:5172/weatherforecast/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-09-06T003533.200.json
+
+###
+

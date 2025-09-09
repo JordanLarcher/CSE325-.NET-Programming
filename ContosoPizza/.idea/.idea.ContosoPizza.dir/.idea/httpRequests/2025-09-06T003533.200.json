@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2025-09-07",
+    "temperatureC": 50,
+    "temperatureF": 121,
+    "summary": "Warm"
+  },
+  {
+    "date": "2025-09-08",
+    "temperatureC": 15,
+    "temperatureF": 58,
+    "summary": "Sweltering"
+  },
+  {
+    "date": "2025-09-09",
+    "temperatureC": 19,
+    "temperatureF": 66,
+    "summary": "Scorching"
+  },
+  {
+    "date": "2025-09-10",
+    "temperatureC": 4,
+    "temperatureF": 39,
+    "summary": "Mild"
+  },
+  {
+    "date": "2025-09-11",
+    "temperatureC": -17,
+    "temperatureF": 2,
+    "summary": "Sweltering"
+  }
+]
